@@ -9,14 +9,14 @@
 
 - 🔭 I’m currently working on **Gym management system**
 
-- 🌱 I’m currently learning **python, React Native**
+- 🌱 I’m currently learning **python, React Native, MongoDB**
 
 - 📫 How to reach me **adanhassan1910@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chezasafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chezasafi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hassan adan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan adan" height="30" width="40" /></a>
+<a href="https://twitter.com/hassan_tech01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassan_tech01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hassan_tech01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan adan" height="30" width="40" /></a>
 <a href="https://instagram.com/hassan_191020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan_191020" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/t4Gn9mCR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/t4Gn9mCR" height="30" width="40" /></a>
 </p>
